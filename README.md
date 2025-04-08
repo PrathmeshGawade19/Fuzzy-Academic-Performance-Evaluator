@@ -43,6 +43,8 @@ Discipline	0–100	Adherence to rules and regulations
 Project Score	0–100	Project or assignment performance
 Class Participation	0–100	Involvement in classroom activities
 
+---
+
 ## 📤 Output
 Performance Score: Numerical value (0–100)
 Grade Mapping:
@@ -51,6 +53,8 @@ A : 75–84
 B : 60–74
 C : 45–59
 D : <45
+
+---
 
 ## 📌 Conclusion
 This system offers a transparent, holistic, and explainable approach to assessing student performance using fuzzy logic principles. It enhances traditional grading by incorporating behavioral and participatory metrics along with academics.
