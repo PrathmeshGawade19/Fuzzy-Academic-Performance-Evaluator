@@ -6,7 +6,7 @@ A fuzzy logic–based intelligent system to evaluate student academic performanc
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Multi-parameter Evaluation:** Considers academic and behavioral aspects:
   - Attendance
@@ -23,7 +23,7 @@ A fuzzy logic–based intelligent system to evaluate student academic performanc
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - Python 3.10+
 - [scikit-fuzzy](https://github.com/scikit-fuzzy/scikit-fuzzy)
@@ -33,7 +33,7 @@ A fuzzy logic–based intelligent system to evaluate student academic performanc
 
 ---
 
-## 📊 Inputs Description
+## Inputs Description
 Parameter	Range	Description
 Attendance	0–100	Attendance percentage
 Internal Marks	0–100	Average internal assessment score
@@ -45,7 +45,7 @@ Class Participation	0–100	Involvement in classroom activities
 
 ---
 
-## 📤 Output
+## Output
 Performance Score: Numerical value (0–100)
 Grade Mapping:
 A+ : 85–100
